@@ -1,0 +1,19 @@
+{
+  "name": "qvac-quizmaker",
+  "version": "1.0.0",
+  "description": "Turn your own notes into an on-device multiple-choice quiz using Tether's QVAC SDK.",
+  "main": "quiz.js",
+  "type": "module",
+  "scripts": {
+    "start": "node quiz.js notes.example.md 5"
+  },
+  "keywords": ["qvac", "on-device-ai", "local-ai", "offline", "llm"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@qvac/sdk": "^0.20.0"
+  },
+  "engines": {
+    "node": ">=22.17"
+  }
+}

@@ -1,4 +1,4 @@
-# QVAC-SDK
+# qvac-quizmaker
 
 Turn your own notes into a multiple-choice quiz, generated and graded
 entirely **on your device**, using [Tether's QVAC SDK](https://github.com/tetherto/qvac).
